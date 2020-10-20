@@ -50,8 +50,6 @@ h1{
 	height: 100%;
 	padding:0 10% 0 10%;
 	width: 100%;
-
-/*	position: absolute;*/
 }
 .column{
 	float:	left;
@@ -63,8 +61,7 @@ h2{
 }
 p{
 	font-size: 2.5vmax;
-} 
-
+}
 .endTimer{
 	font-family:'Sacramento', cursive;
 	font-weight: 200;
